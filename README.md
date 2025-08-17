@@ -4,7 +4,7 @@
   <h3><a href='https://arxiv.org/pdf/1706.03762.pdf'>Attention Is All You Need</a></h3>
   <h3><a href='https://arxiv.org/pdf/1810.04805.pdf'>BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding</a></h3>
   <h3><a href='https://arxiv.org/pdf/1801.07892.pdf'>Generative Image Inpainting with Contextual Attention</a></h3>
-  <h3><a href='https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf'>https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf</a></h3>
+  <h3><a href='https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf'>ImageNet Classification with Deep Convolutional Neural Networks/a></h3>
   <h3><a href='https://www.image-net.org/static_files/papers/imagenet_cvpr09.pdf'>ImageNet: A Large-Scale Hierarchical Image Database</a></h3>
   <h3><a href='https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf'>Deep Learning</a></h3>
 
